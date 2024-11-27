@@ -48,6 +48,7 @@
 - Technologies: Python, Telegram Bot API, Modijiurl integration.
 
 ### 💗**And Many More...**
+
 ---
 
 ### 💡 Goals for 2025
@@ -59,11 +60,23 @@
 ---
 
 ### 📫 Connect with Me
-- **GitHub:** [Shailesh](https://github.com/Shailesh)    
+- **GitHub:** [d3v-shailu](https://github.com/d3v-shailu)    
 - **Email:** ownerisghost@gmail.com
 
 ---
 
+### 🏆 GitHub Stats:
+
+![Shailesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3v-shailu&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d3v-shailu&layout=compact&theme=radical)  
+
+---
+
+### 🌍 Visitors:
+
+![Visitor Count](https://komarev.com/ghpvc/?username=d3v-shailu&color=blue&style=flat-square)
+
+---
 
 ### ✨ Fun Fact  
 **Coding + Coffee = A Perfect Day!** ☕
