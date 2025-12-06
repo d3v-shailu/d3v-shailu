@@ -53,13 +53,15 @@
 
 ## 📊 GitHub Stats:
 
+## 📊 GitHub Stats:
+
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3v-shailu&theme=dark&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3v-shailu&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=d3v-shailu&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=d3v-shailu&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d3v-shailu&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d3v-shailu&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
